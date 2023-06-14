@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Melvin</h1>
 <h3 align="center">A passionate mobile/web application and AI related projects</h3>
 
-- 🔭 I’m currently working on [Time-tasks-to-do](https://github.com/Melvinwan/time-tasks-to-do.git)
+- 🔭 I’m currently working and learning on Quantum Computing
 
-- 🌱 I’m currently learning **TensorFlow, C, MangoDB**
+<!-- - 🌱 I’m currently learning **TensorFlow, C, MangoDB** -->
 
 - 📫 How to reach me **danielmelvin02@gmail.com**
 
